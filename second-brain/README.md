@@ -2,6 +2,8 @@
 
 A personal knowledge management system built with Next.js. Inspired by Obsidian and Linear.
 
+> **Auto-deployment active** - Connected to GitHub → Vercel pipeline 🚀
+
 ![Next.js](https://img.shields.io/badge/Next.js-14-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38bdf8)
