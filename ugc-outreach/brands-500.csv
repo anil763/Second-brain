@@ -1,0 +1,504 @@
+Brand Name,Category,Subcategory,Website,Contact Email,Instagram Handle,LinkedIn URL,Notes,Status
+Notion,Apps,Productivity,notion.so,team@makenotion.com,@notionhq,linkedin.com/company/notionhq,Note-taking and workspace app - huge UGC presence,Prospect
+Todoist,Apps,Productivity,todoist.com,support@todoist.com,@todoist,linkedin.com/company/doist,Task management - works with creators,Prospect
+ClickUp,Apps,Productivity,clickup.com,marketing@clickup.com,@clickup,linkedin.com/company/clickup,Project management - active influencer program,Prospect
+Monday.com,Apps,Productivity,monday.com,partnerships@monday.com,@mondaydotcom,linkedin.com/company/monday,Work OS - big marketing budget,Prospect
+Asana,Apps,Productivity,asana.com,marketing@asana.com,@asana,linkedin.com/company/asana,Project management - enterprise focus,Prospect
+Calendly,Apps,Productivity,calendly.com,partnerships@calendly.com,@calendly,linkedin.com/company/calendly,Scheduling app - great for GenX professionals,Prospect
+Slack,Apps,Productivity,slack.com,press@slack.com,@slackhq,linkedin.com/company/slack,Business communication - Salesforce owned,Prospect
+Zoom,Apps,Productivity,zoom.us,pr@zoom.us,@zoom,linkedin.com/company/zoom,Video conferencing - household name,Prospect
+Loom,Apps,Productivity,loom.com,hello@loom.com,@laborofloom,linkedin.com/company/laborofloom,Video messaging - creator friendly,Prospect
+Canva,Apps,Productivity,canva.com,press@canva.com,@canva,linkedin.com/company/canva,Design tool - works with UGC creators,Prospect
+Evernote,Apps,Productivity,evernote.com,press@evernote.com,@evernote,linkedin.com/company/evernote,Note-taking - established brand,Prospect
+Trello,Apps,Productivity,trello.com,press@trello.com,@trello,linkedin.com/company/trello,Kanban boards - Atlassian owned,Prospect
+Airtable,Apps,Productivity,airtable.com,press@airtable.com,@airtable,linkedin.com/company/airtable,Database/spreadsheet hybrid,Prospect
+Miro,Apps,Productivity,miro.com,press@miro.com,@mirohq,linkedin.com/company/mirohq,Whiteboard collaboration,Prospect
+Figma,Apps,Productivity,figma.com,press@figma.com,@figma,linkedin.com/company/figma,Design tool - Adobe owned,Prospect
+Linear,Apps,Productivity,linear.app,hello@linear.app,@linear,linkedin.com/company/linearapp,Issue tracking - startup darling,Prospect
+Coda,Apps,Productivity,coda.io,press@coda.io,@caborahq,linkedin.com/company/coda,Doc/app hybrid,Prospect
+Grammarly,Apps,Productivity,grammarly.com,press@grammarly.com,@grammarly,linkedin.com/company/grammarly,Writing assistant - big influencer program,Prospect
+Superhuman,Apps,Productivity,superhuman.com,press@superhuman.com,@superhuman,linkedin.com/company/superhuman,Premium email client,Prospect
+Obsidian,Apps,Productivity,obsidian.md,support@obsidian.md,@obaboraian1kb,linkedin.com/company/obsidianmd,Knowledge base - cult following,Prospect
+Bear,Apps,Productivity,bear.app,support@bear.app,@bearnotesapp,linkedin.com/company/bear-notes,Note-taking - Apple ecosystem,Prospect
+Things 3,Apps,Productivity,culturedcode.com,info@culturedcode.com,@culturedcode,linkedin.com/company/cultured-code,Task manager - Apple ecosystem,Prospect
+Fantastical,Apps,Productivity,flexibits.com,support@flexibits.com,@flexibits,linkedin.com/company/flexibits,Calendar app - premium,Prospect
+Spark,Apps,Productivity,sparkmailapp.com,support@readdle.com,@sparkaboritapp,linkedin.com/company/readdle,Email client - Readdle,Prospect
+1Password,Apps,Security,1password.com,press@1password.com,@1password,linkedin.com/company/1password,Password manager - security focused,Prospect
+Dashlane,Apps,Security,dashlane.com,press@dashlane.com,@dashlane,linkedin.com/company/dashlane,Password manager with VPN,Prospect
+NordVPN,Apps,Security,nordvpn.com,press@nordvpn.com,@nordvpn,linkedin.com/company/nordvpn,VPN - huge influencer budget,Prospect
+NordPass,Apps,Security,nordpass.com,press@nordpass.com,@nordpass,linkedin.com/company/nordpass,Password manager - Nord family,Prospect
+ExpressVPN,Apps,Security,expressvpn.com,press@expressvpn.com,@expressvpn,linkedin.com/company/expressvpn,VPN - premium tier,Prospect
+Surfshark,Apps,Security,surfshark.com,press@surfshark.com,@surfshark,linkedin.com/company/surfshark,VPN - value option,Prospect
+ProtonVPN,Apps,Security,protonvpn.com,press@protonvpn.com,@protonvpn,linkedin.com/company/protonvpn,Privacy-focused VPN,Prospect
+ProtonMail,Apps,Security,proton.me,press@proton.me,@proaboranmail,linkedin.com/company/protonmail,Encrypted email,Prospect
+Bitwarden,Apps,Security,bitwarden.com,hello@bitwarden.com,@bitwarden,linkedin.com/company/bitwarden,Open source password manager,Prospect
+LastPass,Apps,Security,lastpass.com,press@lastpass.com,@lastpass,linkedin.com/company/lastpass,Password manager - established,Prospect
+Keeper,Apps,Security,keepersecurity.com,press@keepersecurity.com,@keepersecurity,linkedin.com/company/keeper-security,Password manager - enterprise,Prospect
+Norton,Apps,Security,norton.com,press@nortonlifelock.com,@norton,linkedin.com/company/nortonlifelock,Antivirus - household name,Prospect
+McAfee,Apps,Security,mcafee.com,press@mcafee.com,@mcafee,linkedin.com/company/mcafee,Antivirus - established brand,Prospect
+Malwarebytes,Apps,Security,malwarebytes.com,pr@malwarebytes.com,@malwarebytes,linkedin.com/company/malwarebytes,Anti-malware,Prospect
+Authy,Apps,Security,authy.com,support@authy.com,@auaborahyapp,linkedin.com/company/authy,2FA app - Twilio,Prospect
+Aura,Apps,Security,aura.com,press@aura.com,@aaborara_hq,linkedin.com/company/aura-company,Identity protection,Prospect
+Calm,Apps,Health,calm.com,press@calm.com,@calm,linkedin.com/company/calm,Meditation app - market leader,Prospect
+Headspace,Apps,Health,headspace.com,press@headspace.com,@headspace,linkedin.com/company/headspace,Meditation - big brand,Prospect
+Noom,Apps,Health,noom.com,press@noom.com,@noom,linkedin.com/company/noom,Weight loss - heavy UGC spend,Prospect
+MyFitnessPal,Apps,Health,myfitnesspal.com,press@myfitnesspal.com,@myfitnesspal,linkedin.com/company/myfitnesspal,Calorie tracking,Prospect
+Whoop,Apps,Health,whoop.com,press@whoop.com,@whoop,linkedin.com/company/whoop,Fitness wearable - premium,Prospect
+Oura,Apps,Health,ouraring.com,press@ouraring.com,@ouraring,linkedin.com/company/oura,Sleep tracking ring,Prospect
+Peloton,Apps,Health,onepeloton.com,press@onepeloton.com,@onepeloton,linkedin.com/company/peloton,Connected fitness,Prospect
+Fitbit,Apps,Health,fitbit.com,press@fitbit.com,@fitbit,linkedin.com/company/fitbit,Wearables - Google owned,Prospect
+Strava,Apps,Health,strava.com,press@strava.com,@strava,linkedin.com/company/strava,Running/cycling social,Prospect
+Nike Training Club,Apps,Health,nike.com/ntc-app,press@nike.com,@niketraining,linkedin.com/company/nike,Workout app - Nike,Prospect
+Alo Moves,Apps,Health,alomoves.com,press@aloyoga.com,@alomoves,linkedin.com/company/alo-moves,Yoga/wellness - premium,Prospect
+Apple Fitness+,Apps,Health,apple.com/apple-fitness-plus,press@apple.com,@applefitnessplus,linkedin.com/company/apple,Apple ecosystem fitness,Prospect
+Fabletics,Apps,Health,fabletics.com,press@fabletics.com,@fabletics,linkedin.com/company/fabletics,Activewear + app,Prospect
+Eight Sleep,Apps,Health,eightsleep.com,press@eightsleep.com,@eightsleep,linkedin.com/company/eightsleep,Smart mattress,Prospect
+Sleep Cycle,Apps,Health,sleepcycle.com,press@sleepcycle.com,@sleepcycle,linkedin.com/company/sleep-cycle,Sleep tracking app,Prospect
+Hinge Health,Apps,Health,hingehealth.com,press@hingehealth.com,@hingehealth,linkedin.com/company/hinge-health,Physical therapy app,Prospect
+BetterHelp,Apps,Health,betterhelp.com,press@betterhelp.com,@betterhelp,linkedin.com/company/betterhelp,Online therapy - big influencer spend,Prospect
+Talkspace,Apps,Health,talkspace.com,press@talkspace.com,@talkspace,linkedin.com/company/talkspace,Online therapy,Prospect
+Cerebral,Apps,Health,cerebral.com,press@cerebral.com,@getcerebral,linkedin.com/company/cerebral,Mental health,Prospect
+Done,Apps,Health,donefirst.com,support@donefirst.com,@donefirst,linkedin.com/company/done-first,ADHD treatment,Prospect
+Hims & Hers,Apps,Health,hims.com,press@forhims.com,@haborams,linkedin.com/company/hims,Telehealth - huge UGC budget,Prospect
+Ro,Apps,Health,ro.co,press@ro.co,@ro,linkedin.com/company/ro-health,Telehealth,Prospect
+Nurx,Apps,Health,nurx.com,press@nurx.com,@nuraborax,linkedin.com/company/nurx,Women's health,Prospect
+Duolingo,Apps,Education,duolingo.com,press@duolingo.com,@duolingo,linkedin.com/company/duolingo,Language learning - viral brand,Prospect
+Babbel,Apps,Education,babbel.com,press@babbel.com,@babbel,linkedin.com/company/babbel,Language learning,Prospect
+Audible,Apps,Education,audible.com,press@audible.com,@audible,linkedin.com/company/audible,Audiobooks - Amazon,Prospect
+Blinkist,Apps,Education,blinkist.com,press@blinkist.com,@blinkist,linkedin.com/company/blinkist,Book summaries,Prospect
+MasterClass,Apps,Education,masterclass.com,press@masterclass.com,@masterclass,linkedin.com/company/masterclass,Online learning - celebrity,Prospect
+Skillshare,Apps,Education,skillshare.com,press@skillshare.com,@skillshare,linkedin.com/company/skillshare,Creative learning,Prospect
+Coursera,Apps,Education,coursera.org,press@coursera.org,@coursera,linkedin.com/company/coursera,Online courses,Prospect
+LinkedIn Learning,Apps,Education,linkedin.com/learning,press@linkedin.com,@linkedinlearning,linkedin.com/company/linkedin,Professional development,Prospect
+Brilliant,Apps,Education,brilliant.org,press@brilliant.org,@brilliantorg,linkedin.com/company/brilliant-org,Math/science learning,Prospect
+Khan Academy,Apps,Education,khanacademy.org,press@khanacademy.org,@khanacademy,linkedin.com/company/khan-academy,Free education,Prospect
+Rosetta Stone,Apps,Education,rosettastone.com,press@rosettastone.com,@rosettastone,linkedin.com/company/rosetta-stone,Language learning - classic,Prospect
+Elevate,Apps,Education,elevateapp.com,support@elevateapp.com,@elevateapp,linkedin.com/company/elevate-labs,Brain training,Prospect
+Lumosity,Apps,Education,lumosity.com,press@lumosity.com,@lumosity,linkedin.com/company/lumos-labs,Brain training,Prospect
+Scribd,Apps,Education,scribd.com,press@scribd.com,@scribd,linkedin.com/company/scribd,Document/book subscription,Prospect
+Medium,Apps,Education,medium.com,press@medium.com,@medium,linkedin.com/company/medium,Publishing platform,Prospect
+Robinhood,Finance,Investing,robinhood.com,press@robinhood.com,@robinhood,linkedin.com/company/robinhood,Commission-free trading - GenX loves,Prospect
+Acorns,Finance,Investing,acorns.com,press@acorns.com,@acorns,linkedin.com/company/acorns,Micro-investing,Prospect
+Betterment,Finance,Investing,betterment.com,press@betterment.com,@betterment,linkedin.com/company/betterment,Robo-advisor,Prospect
+Wealthfront,Finance,Investing,wealthfront.com,press@wealthfront.com,@wealthfront,linkedin.com/company/wealthfront,Robo-advisor,Prospect
+Stash,Finance,Investing,stash.com,press@stash.com,@stash,linkedin.com/company/stash-financial,Banking + investing,Prospect
+Public,Finance,Investing,public.com,press@public.com,@public,linkedin.com/company/public-holdings,Social investing,Prospect
+M1 Finance,Finance,Investing,m1.com,press@m1finance.com,@m1_finance,linkedin.com/company/m1-finance,Automated investing,Prospect
+Webull,Finance,Investing,webull.com,press@webull.com,@webaborall,linkedin.com/company/webull,Commission-free trading,Prospect
+SoFi,Finance,Investing,sofi.com,press@sofi.com,@sofi,linkedin.com/company/sofi,Financial services - huge brand,Prospect
+Fidelity,Finance,Investing,fidelity.com,press@fidelity.com,@fidelity,linkedin.com/company/fidelity,Investment giant,Prospect
+Charles Schwab,Finance,Investing,schwab.com,press@schwab.com,@charlesschwab,linkedin.com/company/charles-schwab,Investment giant,Prospect
+Vanguard,Finance,Investing,vanguard.com,press@vanguard.com,@vaboraanguard_group,linkedin.com/company/vanguard,Investment giant,Prospect
+TD Ameritrade,Finance,Investing,tdameritrade.com,press@tdameritrade.com,@tdameritrade,linkedin.com/company/td-ameritrade,Trading platform,Prospect
+E*TRADE,Finance,Investing,etrade.com,press@etrade.com,@etrade,linkedin.com/company/etrade,Trading platform,Prospect
+Interactive Brokers,Finance,Investing,interactivebrokers.com,press@ibkr.com,@ibkr,linkedin.com/company/interactive-brokers,Advanced trading,Prospect
+Fundrise,Finance,Investing,fundrise.com,press@fundrise.com,@fundrise,linkedin.com/company/fundrise,Real estate investing,Prospect
+Yieldstreet,Finance,Investing,yieldstreet.com,press@yieldstreet.com,@yieldstreet,linkedin.com/company/yieldstreet,Alternative investing,Prospect
+Coinbase,Finance,Crypto,coinbase.com,press@coinbase.com,@coinbase,linkedin.com/company/coinbase,Crypto exchange - mainstream,Prospect
+Kraken,Finance,Crypto,kraken.com,press@kraken.com,@kaboraakenfx,linkedin.com/company/kraken-exchange,Crypto exchange,Prospect
+Gemini,Finance,Crypto,gemini.com,press@gemini.com,@gemini,linkedin.com/company/gemini,Crypto - Winklevoss,Prospect
+BlockFi,Finance,Crypto,blockfi.com,press@blockfi.com,@blockfi,linkedin.com/company/blockfi,Crypto lending,Prospect
+Crypto.com,Finance,Crypto,crypto.com,press@crypto.com,@cryptocom,linkedin.com/company/cryptocom,Crypto exchange,Prospect
+Chime,Finance,Banking,chime.com,press@chime.com,@chaborame,linkedin.com/company/chime,No-fee banking - GenX friendly,Prospect
+Current,Finance,Banking,current.com,press@current.com,@current,linkedin.com/company/current-app,Mobile banking,Prospect
+Varo,Finance,Banking,varomoney.com,press@varomoney.com,@varobank,linkedin.com/company/varo-money,Mobile bank,Prospect
+Ally Bank,Finance,Banking,ally.com,press@ally.com,@allybank,linkedin.com/company/ally-financial,Online banking,Prospect
+Marcus by Goldman Sachs,Finance,Banking,marcus.com,press@marcus.com,@marcusbygoldmansachs,linkedin.com/company/marcus-by-gs,High-yield savings,Prospect
+Discover Bank,Finance,Banking,discover.com,press@discover.com,@discover,linkedin.com/company/discover,Banking + cards,Prospect
+Capital One,Finance,Banking,capitalone.com,press@capitalone.com,@capitalone,linkedin.com/company/capital-one,Banking giant,Prospect
+Axos Bank,Finance,Banking,axosbank.com,press@axosbank.com,@axosbank,linkedin.com/company/axos-bank,Online bank,Prospect
+YNAB,Finance,Budgeting,ynab.com,press@ynab.com,@ynab,linkedin.com/company/ynab,Zero-based budgeting - cult following,Prospect
+Mint,Finance,Budgeting,mint.intuit.com,press@intuit.com,@mint,linkedin.com/company/mint,Budgeting - Intuit,Prospect
+Personal Capital,Finance,Budgeting,personalcapital.com,press@personalcapital.com,@personalcapital,linkedin.com/company/personal-capital,Wealth management,Prospect
+Empower,Finance,Budgeting,empower.com,press@empower.com,@empower,linkedin.com/company/empower-retirement,Retirement + budgeting,Prospect
+Quicken,Finance,Budgeting,quicken.com,press@quicken.com,@quicken,linkedin.com/company/quicken,Classic finance software,Prospect
+Rocket Money,Finance,Budgeting,rocketmoney.com,press@rocketmoney.com,@rocketmoney,linkedin.com/company/rocket-money,Bill negotiation - formerly Truebill,Prospect
+Copilot,Finance,Budgeting,copilot.money,support@copilot.money,@copilotmoney,linkedin.com/company/copilot-money,Modern budgeting app,Prospect
+Monarch Money,Finance,Budgeting,monarchmoney.com,support@monarchmoney.com,@monarchmoney,linkedin.com/company/monarch-money,Family finance,Prospect
+Chase,Finance,Credit Cards,chase.com,press@chase.com,@chase,linkedin.com/company/chase,Banking giant - Sapphire cards,Prospect
+American Express,Finance,Credit Cards,americanexpress.com,press@aexp.com,@amex,linkedin.com/company/american-express,Premium cards,Prospect
+Citi,Finance,Credit Cards,citi.com,press@citi.com,@citi,linkedin.com/company/citi,Banking giant,Prospect
+Bank of America,Finance,Credit Cards,bankofamerica.com,press@bofa.com,@bankofamerica,linkedin.com/company/bank-of-america,Banking giant,Prospect
+Wells Fargo,Finance,Credit Cards,wellsfargo.com,press@wellsfargo.com,@wellsfargo,linkedin.com/company/wells-fargo,Banking giant,Prospect
+US Bank,Finance,Credit Cards,usbank.com,press@usbank.com,@usbank,linkedin.com/company/us-bank,Regional bank,Prospect
+Barclays,Finance,Credit Cards,barclays.com,press@barclays.com,@barclays,linkedin.com/company/barclays,International bank,Prospect
+Synchrony,Finance,Credit Cards,synchrony.com,press@synchrony.com,@synchrony,linkedin.com/company/synchrony-financial,Store cards,Prospect
+Upgrade,Finance,Credit Cards,upgrade.com,press@upgrade.com,@upgaboraade,linkedin.com/company/upgrade-inc,Credit line + card,Prospect
+Petal,Finance,Credit Cards,petalcard.com,press@petalcard.com,@petalcard,linkedin.com/company/petal-card,No-fee building credit,Prospect
+Lemonade,Finance,Insurance,lemonade.com,press@lemonade.com,@laboraemonade_inc,linkedin.com/company/lemonade-inc,AI insurance - GenX appeal,Prospect
+Hippo,Finance,Insurance,hippo.com,press@hippo.com,@gethippo,linkedin.com/company/hippo-insurance,Smart home insurance,Prospect
+Root Insurance,Finance,Insurance,root.com,press@root.com,@rootinsurance,linkedin.com/company/root-insurance,Driving-based rates,Prospect
+Metromile,Finance,Insurance,metromile.com,press@metromile.com,@metaboraomile,linkedin.com/company/metromile,Pay-per-mile,Prospect
+Bestow,Finance,Insurance,bestow.com,press@bestow.com,@bestowlife,linkedin.com/company/bestow,No-exam life insurance,Prospect
+Ladder,Finance,Insurance,ladderlife.com,press@ladderlife.com,@ladderlife,linkedin.com/company/ladder-insurance,Digital life insurance,Prospect
+Haven Life,Finance,Insurance,havenlife.com,press@havenlife.com,@havenlife,linkedin.com/company/haven-life,MassMutual backed,Prospect
+Ethos,Finance,Insurance,ethoslife.com,press@ethoslife.com,@ethoslife,linkedin.com/company/ethos-life,No-exam life insurance,Prospect
+Policygenius,Finance,Insurance,policygenius.com,press@policygenius.com,@policygenius,linkedin.com/company/policygenius,Insurance marketplace,Prospect
+NEXT Insurance,Finance,Insurance,nextinsurance.com,press@nextinsurance.com,@nextinsurance,linkedin.com/company/next-insurance,Small business insurance,Prospect
+Liberty Mutual,Finance,Insurance,libertymutual.com,press@libertymutual.com,@libertymutual,linkedin.com/company/liberty-mutual,Insurance giant,Prospect
+State Farm,Finance,Insurance,statefarm.com,press@statefarm.com,@statefarm,linkedin.com/company/state-farm,Insurance giant,Prospect
+Allstate,Finance,Insurance,allstate.com,press@allstate.com,@allstate,linkedin.com/company/allstate,Insurance giant,Prospect
+Progressive,Finance,Insurance,progressive.com,press@progressive.com,@progressive,linkedin.com/company/progressive-insurance,Insurance giant,Prospect
+Geico,Finance,Insurance,geico.com,press@geico.com,@geico,linkedin.com/company/geico,Berkshire backed,Prospect
+USAA,Finance,Insurance,usaa.com,press@usaa.com,@usaa,linkedin.com/company/usaa,Military families,Prospect
+Guideline,Finance,Retirement,guideline.com,press@guideline.com,@lifeaborguideline,linkedin.com/company/guideline,401k for SMBs,Prospect
+Human Interest,Finance,Retirement,humaninterest.com,press@humaninterest.com,@humaninterest,linkedin.com/company/human-interest,401k platform,Prospect
+Betterment at Work,Finance,Retirement,betterment.com/work,press@betterment.com,@betterment,linkedin.com/company/betterment,401k robo-advisor,Prospect
+Ring,Smart Home,Security,ring.com,press@ring.com,@ring,linkedin.com/company/ring,Doorbells - Amazon owned,Prospect
+SimpliSafe,Smart Home,Security,simplisafe.com,press@simplisafe.com,@simplisafe,linkedin.com/company/simplisafe,DIY security - big UGC spend,Prospect
+ADT,Smart Home,Security,adt.com,press@adt.com,@adt,linkedin.com/company/adt,Security giant,Prospect
+Vivint,Smart Home,Security,vivint.com,press@vivint.com,@vivint,linkedin.com/company/vivint,Smart home security,Prospect
+Abode,Smart Home,Security,goabode.com,press@goabode.com,@goabode,linkedin.com/company/abode-systems,DIY security,Prospect
+Wyze,Smart Home,Security,wyze.com,press@wyze.com,@wyze,linkedin.com/company/wyze-labs,Budget smart home - huge,Prospect
+Arlo,Smart Home,Security,arlo.com,press@arlo.com,@aboralo,linkedin.com/company/arlo-technologies,Wireless cameras,Prospect
+Blink,Smart Home,Security,blinkforhome.com,press@amazon.com,@blinkforhome,linkedin.com/company/blink-home,Budget cameras - Amazon,Prospect
+Eufy,Smart Home,Security,eufylife.com,press@eufylife.com,@eufyofficial,linkedin.com/company/eufy,Anker brand - great value,Prospect
+Lorex,Smart Home,Security,lorex.com,press@lorex.com,@loraboraextechnology,linkedin.com/company/lorex-technology,Security cameras,Prospect
+Reolink,Smart Home,Security,reolink.com,support@reolink.com,@reolinktech,linkedin.com/company/reolink,POE cameras,Prospect
+Swann,Smart Home,Security,swann.com,press@swann.com,@swannsecurity,linkedin.com/company/swann-security,Security cameras,Prospect
+Kangaroo,Smart Home,Security,heykangaroo.com,press@heykangaroo.com,@heykangaroo,linkedin.com/company/kangaroo-home,Budget security,Prospect
+Cove,Smart Home,Security,covesmart.com,press@covesmart.com,@covesmart,linkedin.com/company/cove-smart,DIY security,Prospect
+Scout,Smart Home,Security,scoutalarm.com,press@scoutalarm.com,@scoutalarm,linkedin.com/company/scout-security,DIY security,Prospect
+Frontpoint,Smart Home,Security,frontpointsecurity.com,press@frontpoint.com,@frontpoint,linkedin.com/company/frontpoint-security,Home security,Prospect
+Brinks Home,Smart Home,Security,brinkshome.com,press@brinkshome.com,@brinkshome,linkedin.com/company/brinks-home,Professional monitoring,Prospect
+Blue by ADT,Smart Home,Security,bluebyadt.com,press@adt.com,@bluebyadt,linkedin.com/company/adt,ADT DIY option,Prospect
+Nest,Smart Home,Hub,store.google.com/nest,press@google.com,@googlenest,linkedin.com/company/google,Google smart home,Prospect
+Amazon Echo,Smart Home,Hub,amazon.com/echo,press@amazon.com,@amazonecho,linkedin.com/company/amazon,Alexa ecosystem,Prospect
+Apple HomePod,Smart Home,Hub,apple.com/homepod,press@apple.com,@apple,linkedin.com/company/apple,Apple ecosystem,Prospect
+Samsung SmartThings,Smart Home,Hub,smartthings.com,press@samsung.com,@smartthings,linkedin.com/company/smartthings,Samsung hub,Prospect
+Hubitat,Smart Home,Hub,hubitat.com,support@hubitat.com,@hubaboraat,linkedin.com/company/hubitat,Local processing,Prospect
+Home Assistant,Smart Home,Hub,home-assistant.io,hello@home-assistant.io,@home_assistant,linkedin.com/company/home-assistant,Open source,Prospect
+Wink,Smart Home,Hub,wink.com,support@wink.com,@waboraink,linkedin.com/company/wink,Smart hub,Prospect
+Philips Hue,Smart Home,Lighting,philips-hue.com,press@signify.com,@philipshue,linkedin.com/company/signify,Premium smart lighting,Prospect
+LIFX,Smart Home,Lighting,lifx.com,press@lifx.com,@lifx,linkedin.com/company/lifx,No-hub bulbs,Prospect
+Nanoleaf,Smart Home,Lighting,nanoleaf.me,press@nanoleaf.me,@nanoleaf,linkedin.com/company/nanoleaf,Decorative panels,Prospect
+Govee,Smart Home,Lighting,govee.com,marketing@govee.com,@govee_official,linkedin.com/company/govee,Budget RGB - huge,Prospect
+Sengled,Smart Home,Lighting,sengled.com,press@sengled.com,@sengledusa,linkedin.com/company/sengled,Budget bulbs,Prospect
+TP-Link Kasa,Smart Home,Lighting,kasasmart.com,press@tp-link.com,@kasasmart,linkedin.com/company/tp-link,Smart plugs + bulbs,Prospect
+Wyze Bulb,Smart Home,Lighting,wyze.com,press@wyze.com,@wyze,linkedin.com/company/wyze-labs,Budget bulbs,Prospect
+Cree Lighting,Smart Home,Lighting,creelighting.com,info@creelighting.com,@creelighting,linkedin.com/company/cree-lighting,LED specialist,Prospect
+GE CYNC,Smart Home,Lighting,gelighting.com,press@gelighting.com,@gecync,linkedin.com/company/ge-lighting,GE smart lighting,Prospect
+Lutron Caseta,Smart Home,Lighting,lutron.com,press@lutron.com,@lutronelec,linkedin.com/company/lutron-electronics,Smart switches - premium,Prospect
+Wiz,Smart Home,Lighting,wizconnected.com,press@signify.com,@wizlights,linkedin.com/company/wiz,Signify budget brand,Prospect
+C by GE,Smart Home,Lighting,cbyge.com,press@gelighting.com,@cbyge,linkedin.com/company/ge-lighting,GE connected,Prospect
+Ikea Tradfri,Smart Home,Lighting,ikea.com,press@ikea.com,@ikeausa,linkedin.com/company/ikea,Budget smart home,Prospect
+Feit Electric,Smart Home,Lighting,feit.com,info@feit.com,@feitelectric,linkedin.com/company/feit-electric,Budget bulbs,Prospect
+Nest Thermostat,Smart Home,Climate,store.google.com/nest,press@google.com,@googlenest,linkedin.com/company/google,Learning thermostat,Prospect
+Ecobee,Smart Home,Climate,ecobee.com,press@ecobee.com,@ecobee,linkedin.com/company/ecobee,Smart thermostat - top rated,Prospect
+Honeywell Home,Smart Home,Climate,honeywellhome.com,press@resideo.com,@honeywellhome,linkedin.com/company/resideo,Classic brand - smart,Prospect
+Sensi,Smart Home,Climate,sensi.com,support@sensi.com,@sensismartthermo,linkedin.com/company/emerson,Emerson brand,Prospect
+Mysa,Smart Home,Climate,getmysa.com,press@getmysa.com,@getmysa,linkedin.com/company/mysa-smart-thermostats,Baseboard heater smart,Prospect
+Cielo,Smart Home,Climate,cielowigle.com,support@cielowigle.com,@cielowigle,linkedin.com/company/cielo-wigle,Mini split controller,Prospect
+Sensibo,Smart Home,Climate,sensibo.com,press@sensibo.com,@sensaborabo,linkedin.com/company/sensibo,AC controller,Prospect
+Tado,Smart Home,Climate,tado.com,press@tado.com,@taboraado,linkedin.com/company/tado,European smart climate,Prospect
+Ambi Climate,Smart Home,Climate,ambiclimate.com,hello@ambiclimate.com,@ambiclimate,linkedin.com/company/ambi-labs,AI climate control,Prospect
+Emerson Sensi,Smart Home,Climate,sensi.com,support@sensi.com,@sensismartthermo,linkedin.com/company/emerson,Smart thermostat,Prospect
+iRobot Roomba,Smart Home,Appliances,irobot.com,press@irobot.com,@irobot,linkedin.com/company/irobot,Robot vacuum leader,Prospect
+Roborock,Smart Home,Appliances,roborock.com,marketing@roborock.com,@roaboraobor_ockglobal,linkedin.com/company/roborock,Premium robot vac,Prospect
+Ecovacs,Smart Home,Appliances,ecovacs.com,marketing@ecovacs.com,@ecovacsrobotics,linkedin.com/company/ecovacs,Robot vacuums,Prospect
+Shark,Smart Home,Appliances,sharkclean.com,press@sharkninja.com,@sharkaboracleaning,linkedin.com/company/sharkninja,Robot + regular vacuums,Prospect
+iLife,Smart Home,Appliances,iliferobot.com,support@iliferobot.com,@iliferobot,linkedin.com/company/ilife,Budget robot vacuum,Prospect
+Eufy RoboVac,Smart Home,Appliances,eufylife.com,press@eufylife.com,@eufyofficial,linkedin.com/company/eufy,Budget robot vacuum,Prospect
+Dreame,Smart Home,Appliances,dreametech.com,marketing@dreame.tech,@dreaboraametech,linkedin.com/company/dreame-technology,Robot vacuum,Prospect
+Narwal,Smart Home,Appliances,narwal.com,marketing@narwal.com,@narwalrobotics,linkedin.com/company/narwal,Self-cleaning mop,Prospect
+Dyson,Smart Home,Appliances,dyson.com,press@dyson.com,@dyson,linkedin.com/company/dyson,Premium appliances,Prospect
+Samsung Jet Bot,Smart Home,Appliances,samsung.com,press@samsung.com,@samsungus,linkedin.com/company/samsung,Samsung robot vac,Prospect
+LG CordZero,Smart Home,Appliances,lg.com,press@lg.com,@lgusa,linkedin.com/company/lg,LG robot vacuum,Prospect
+Bissell,Smart Home,Appliances,bissell.com,press@bissell.com,@bissell,linkedin.com/company/bissell,Cleaning appliances,Prospect
+Tineco,Smart Home,Appliances,tineco.com,marketing@tineco.com,@tineco_global,linkedin.com/company/tineco,Floor cleaners,Prospect
+Yeedi,Smart Home,Appliances,yeedi.com,marketing@yeedi.com,@yeediglobal,linkedin.com/company/yeedi,Budget Ecovacs brand,Prospect
+Neato,Smart Home,Appliances,neatorobotics.com,press@neatorobotics.com,@neatorobotics,linkedin.com/company/neato-robotics,D-shape vacuum,Prospect
+Bobsweep,Smart Home,Appliances,bobsweep.com,support@bobsweep.com,@bobsweep,linkedin.com/company/bobsweep,Robot vacuum,Prospect
+August,Smart Home,Locks,august.com,press@august.com,@augusthome,linkedin.com/company/august-home,Smart locks - Yale owned,Prospect
+Yale,Smart Home,Locks,yalehome.com,press@assaabloy.com,@yaboraalehome,linkedin.com/company/yale-locks,Smart locks,Prospect
+Schlage,Smart Home,Locks,schlage.com,press@allegion.com,@schlagaborae,linkedin.com/company/schlage,Smart locks,Prospect
+Kwikset,Smart Home,Locks,kwikset.com,press@kwikset.com,@kwikset,linkedin.com/company/kwikset,Smart locks,Prospect
+Level Lock,Smart Home,Locks,level.co,press@level.co,@levelhome,linkedin.com/company/level-home,Invisible smart lock,Prospect
+Ultraloq,Smart Home,Locks,u-tec.com,support@u-tec.com,@ultraloq,linkedin.com/company/u-tec,Fingerprint lock,Prospect
+Lockly,Smart Home,Locks,lockly.com,press@lockly.com,@lockly,linkedin.com/company/lockly,PIN Genie lock,Prospect
+Eufy Smart Lock,Smart Home,Locks,eufylife.com,press@eufylife.com,@eufyofficial,linkedin.com/company/eufy,Anker smart lock,Prospect
+SwitchBot Lock,Smart Home,Locks,switch-bot.com,support@switch-bot.com,@switchbot,linkedin.com/company/switchbot,Retrofit lock,Prospect
+Nuki,Smart Home,Locks,nuki.io,press@nuki.io,@naborauki_smartlock,linkedin.com/company/nuki,European smart lock,Prospect
+Chamberlain myQ,Smart Home,Garage,chamberlain.com,press@chamberlain.com,@chamberlain,linkedin.com/company/chamberlain-group,Smart garage,Prospect
+Genie Aladdin,Smart Home,Garage,geniecompany.com,press@geniecompany.com,@thegeniecompany,linkedin.com/company/genie-company,Smart garage,Prospect
+Tailwind,Smart Home,Garage,gotailwind.com,support@gotailwind.com,@gotailwind,linkedin.com/company/tailwind-iq3,Smart garage controller,Prospect
+Nexx Garage,Smart Home,Garage,nexxhome.com,support@nexxhome.com,@nexxhome,linkedin.com/company/nexx-home,Garage controller,Prospect
+Meross,Smart Home,Garage,meross.com,support@meross.com,@meaboraossiot,linkedin.com/company/meross,Budget garage opener,Prospect
+Rachio,Smart Home,Lawn,rachio.com,press@rachio.com,@raaborachio,linkedin.com/company/rachio,Smart sprinkler,Prospect
+Orbit B-hyve,Smart Home,Lawn,orbitonline.com,support@orbitonline.com,@bhyve,linkedin.com/company/orbit-irrigation,Smart sprinkler,Prospect
+RainMachine,Smart Home,Lawn,rainmachine.com,support@rainmachine.com,@rainmachine,linkedin.com/company/rainmachine,Smart irrigation,Prospect
+Wyze Sprinkler,Smart Home,Lawn,wyze.com,press@wyze.com,@wyze,linkedin.com/company/wyze-labs,Budget sprinkler,Prospect
+Husqvarna Automower,Smart Home,Lawn,husqvarna.com,press@husqvarna.com,@husqvarnausa,linkedin.com/company/husqvarna,Robot mower,Prospect
+Worx Landroid,Smart Home,Lawn,worx.com,support@worx.com,@worxtools,linkedin.com/company/worx-tools,Robot mower,Prospect
+Greenworks,Smart Home,Lawn,greenworkstools.com,press@greenworkstools.com,@greenaboraworkstools,linkedin.com/company/greenworks-tools,Electric lawn tools,Prospect
+EGO Power+,Smart Home,Lawn,egopowerplus.com,press@egopowerplus.com,@egopowerplus,linkedin.com/company/ego-power-plus,Battery lawn tools,Prospect
+Ryobi,Smart Home,Lawn,ryobitools.com,support@ryobitools.com,@ryaboraobi_tools,linkedin.com/company/ryobi,Power tools,Prospect
+Milwaukee,Smart Home,Tools,milwaukeetool.com,press@milwaukeetool.com,@milwaukeetool,linkedin.com/company/milwaukee-tool,Power tools,Prospect
+DeWalt,Smart Home,Tools,dewalt.com,press@stanleyblackanddecker.com,@dewaboraalt_usa,linkedin.com/company/dewalt,Power tools,Prospect
+Bosch,Smart Home,Tools,bosch-home.com,press@bosch.com,@boaboraschpowertools,linkedin.com/company/bosch,Tools + smart home,Prospect
+Makita,Smart Home,Tools,makitatools.com,press@makita.com,@makitatoolsusa,linkedin.com/company/makita,Power tools,Prospect
+Craftsman,Smart Home,Tools,craftsman.com,press@stanleyblackanddecker.com,@craftsmantools,linkedin.com/company/craftsman,Tools - classic brand,Prospect
+Kobalt,Smart Home,Tools,lowes.com/kobalt,press@lowes.com,@kobalttools,linkedin.com/company/kobalt-tools,Lowe's brand,Prospect
+Leviton,Smart Home,Electrical,leviton.com,marketing@leviton.com,@leviaboraton,linkedin.com/company/leviton,Smart switches,Prospect
+Wemo,Smart Home,Electrical,wemo.com,press@belkin.com,@waboraemosmart,linkedin.com/company/wemo,Belkin smart plugs,Prospect
+Kasa Smart,Smart Home,Electrical,kasasmart.com,press@tp-link.com,@kasasmart,linkedin.com/company/tp-link,TP-Link smart home,Prospect
+Meross,Smart Home,Electrical,meross.com,support@meross.com,@meaboraossiot,linkedin.com/company/meross,Budget smart plugs,Prospect
+Treatlife,Smart Home,Electrical,treatlife.tech,support@treatlife.tech,@treatlife_tech,linkedin.com/company/treatlife,Budget switches,Prospect
+Inovelli,Smart Home,Electrical,inovelli.com,support@inovelli.com,@inovelli,linkedin.com/company/inovelli,Enthusiast switches,Prospect
+Zooz,Smart Home,Electrical,getzooz.com,support@getzooz.com,@getzooz,linkedin.com/company/getzooz,Z-Wave devices,Prospect
+GE Enbrighten,Smart Home,Electrical,byjasco.com,press@jasco.com,@enbrighten,linkedin.com/company/jasco-products,Jasco smart home,Prospect
+Brilliant,Smart Home,Electrical,brilliant.tech,press@brilliant.tech,@brillianthome,linkedin.com/company/brilliant-home,Smart control panel,Prospect
+Sonos,Smart Home,Audio,sonos.com,press@sonos.com,@sonos,linkedin.com/company/sonos,Wireless speakers,Prospect
+Bose,Smart Home,Audio,bose.com,press@bose.com,@bose,linkedin.com/company/bose,Premium audio,Prospect
+JBL,Smart Home,Audio,jbl.com,press@harman.com,@jblaudio,linkedin.com/company/jbl,Speakers,Prospect
+Harman Kardon,Smart Home,Audio,harmankardon.com,press@harman.com,@harmankardon,linkedin.com/company/harman-kardon,Premium audio,Prospect
+Bang & Olufsen,Smart Home,Audio,bang-olufsen.com,press@bang-olufsen.com,@bangolufsen,linkedin.com/company/bang-olufsen,Luxury audio,Prospect
+Marshall,Smart Home,Audio,marshallheadphones.com,press@marshall.com,@marshallheadphones,linkedin.com/company/marshall-headphones,Speakers,Prospect
+Anker Soundcore,Smart Home,Audio,soundcore.com,press@anker.com,@soundcore_global,linkedin.com/company/soundcore,Budget audio,Prospect
+Ultimate Ears,Smart Home,Audio,ultimateears.com,press@ultimateears.com,@ultimateears,linkedin.com/company/ultimate-ears,Portable speakers,Prospect
+Amazon Music,Apps,Entertainment,music.amazon.com,press@amazon.com,@amazonmusic,linkedin.com/company/amazon-music,Streaming,Prospect
+Spotify,Apps,Entertainment,spotify.com,press@spotify.com,@spotify,linkedin.com/company/spotify,Music streaming,Prospect
+Apple Music,Apps,Entertainment,apple.com/apple-music,press@apple.com,@applemusic,linkedin.com/company/apple,Music streaming,Prospect
+YouTube Music,Apps,Entertainment,music.youtube.com,press@google.com,@youtubemusic,linkedin.com/company/youtube,Music streaming,Prospect
+Tidal,Apps,Entertainment,tidal.com,press@tidal.com,@tidal,linkedin.com/company/tidal,Hi-fi streaming,Prospect
+Pandora,Apps,Entertainment,pandora.com,press@pandora.com,@pandoramusic,linkedin.com/company/pandora,Radio streaming,Prospect
+Deezer,Apps,Entertainment,deezer.com,press@deezer.com,@deezer,linkedin.com/company/deezer,Music streaming,Prospect
+SoundCloud,Apps,Entertainment,soundcloud.com,press@soundcloud.com,@soundcloud,linkedin.com/company/soundcloud,Music platform,Prospect
+Netflix,Apps,Entertainment,netflix.com,press@netflix.com,@netflix,linkedin.com/company/netflix,Streaming giant,Prospect
+Disney+,Apps,Entertainment,disneyplus.com,press@disney.com,@disneyplus,linkedin.com/company/disney,Streaming,Prospect
+HBO Max,Apps,Entertainment,max.com,press@warnerbros.com,@hbomax,linkedin.com/company/hbo-max,Streaming,Prospect
+Hulu,Apps,Entertainment,hulu.com,press@hulu.com,@hulu,linkedin.com/company/hulu,Streaming,Prospect
+Peacock,Apps,Entertainment,peacocktv.com,press@nbcuniversal.com,@peacock,linkedin.com/company/peacock,NBC streaming,Prospect
+Paramount+,Apps,Entertainment,paramountplus.com,press@paramount.com,@paramountplus,linkedin.com/company/paramount-plus,Streaming,Prospect
+Apple TV+,Apps,Entertainment,apple.com/apple-tv-plus,press@apple.com,@appletv,linkedin.com/company/apple,Apple streaming,Prospect
+Amazon Prime Video,Apps,Entertainment,primevideo.com,press@amazon.com,@primevideo,linkedin.com/company/amazon,Amazon streaming,Prospect
+Crunchyroll,Apps,Entertainment,crunchyroll.com,press@crunchyroll.com,@crunchyroll,linkedin.com/company/crunchyroll,Anime streaming,Prospect
+Plex,Apps,Entertainment,plex.tv,press@plex.tv,@plex,linkedin.com/company/plex,Media server,Prospect
+Qobuz,Apps,Entertainment,qobuz.com,press@qobuz.com,@qobuz,linkedin.com/company/qobuz,Hi-res audio,Prospect
+Roon,Apps,Entertainment,roon.app,press@roon.app,@raboraoonlabs,linkedin.com/company/roon,Music management,Prospect
+Expensify,Apps,Productivity,expensify.com,press@expensify.com,@expensify,linkedin.com/company/expensify,Expense tracking,Prospect
+Brex,Finance,Banking,brex.com,press@brex.com,@braboraex,linkedin.com/company/brex,Startup banking,Prospect
+Ramp,Finance,Banking,ramp.com,press@ramp.com,@tryramp,linkedin.com/company/ramp-financial,Corporate cards,Prospect
+Mercury,Finance,Banking,mercury.com,press@mercury.com,@mercaboraury,linkedin.com/company/mercury-bank,Startup banking,Prospect
+Novo,Finance,Banking,novo.co,press@novo.co,@banknovo,linkedin.com/company/novo,Small business banking,Prospect
+Bluevine,Finance,Banking,bluevine.com,press@bluevine.com,@bluevine,linkedin.com/company/bluevine,Business banking,Prospect
+Relay,Finance,Banking,relayfi.com,support@relayfi.com,@reaboralayfi,linkedin.com/company/relay-financial,Business banking,Prospect
+NorthOne,Finance,Banking,northone.com,press@northone.com,@northone,linkedin.com/company/northone,Business banking,Prospect
+Wise,Finance,Payments,wise.com,press@wise.com,@wise,linkedin.com/company/wiseaccount,International transfers,Prospect
+PayPal,Finance,Payments,paypal.com,press@paypal.com,@paypal,linkedin.com/company/paypal,Payment giant,Prospect
+Venmo,Finance,Payments,venmo.com,press@paypal.com,@venmo,linkedin.com/company/venmo,P2P payments,Prospect
+Zelle,Finance,Payments,zellepay.com,press@zellepay.com,@zaboraelle,linkedin.com/company/zelle,Bank P2P,Prospect
+Cash App,Finance,Payments,cash.app,press@squareup.com,@cashapp,linkedin.com/company/cashapp,Block payments,Prospect
+Stripe,Finance,Payments,stripe.com,press@stripe.com,@stripe,linkedin.com/company/stripe,Payment infrastructure,Prospect
+Square,Finance,Payments,squareup.com,press@squareup.com,@square,linkedin.com/company/square,Payment processing,Prospect
+Klarna,Finance,Payments,klarna.com,press@klarna.com,@klarna,linkedin.com/company/klarna,Buy now pay later,Prospect
+Affirm,Finance,Payments,affirm.com,press@affirm.com,@affirm,linkedin.com/company/affirm,Buy now pay later,Prospect
+Afterpay,Finance,Payments,afterpay.com,press@afterpay.com,@afterpay,linkedin.com/company/afterpay,Buy now pay later - Block,Prospect
+Sezzle,Finance,Payments,sezzle.com,press@sezzle.com,@sezzle,linkedin.com/company/sezzle,Buy now pay later,Prospect
+Zip,Finance,Payments,zip.co,press@zip.co,@zipaboraco,linkedin.com/company/zip-co,BNPL,Prospect
+Plaid,Finance,Fintech,plaid.com,press@plaid.com,@plaid,linkedin.com/company/plaid,Financial data,Prospect
+Marqeta,Finance,Fintech,marqeta.com,press@marqeta.com,@maraboraqeta,linkedin.com/company/marqeta,Card issuing,Prospect
+Galileo,Finance,Fintech,galileo-ft.com,press@galileo-ft.com,@galileoft,linkedin.com/company/galileo-financial,Banking API,Prospect
+Unit,Finance,Fintech,unit.co,press@unit.co,@unitco,linkedin.com/company/unit-finance,Banking API,Prospect
+Synapse,Finance,Fintech,synapsefi.com,press@synapsefi.com,@synapsefi,linkedin.com/company/synapsefi,Banking infrastructure,Prospect
+Credit Karma,Finance,Credit,creditkarma.com,press@creditkarma.com,@creditkarma,linkedin.com/company/credit-karma,Free credit scores,Prospect
+Experian,Finance,Credit,experian.com,press@experian.com,@experian,linkedin.com/company/experian,Credit bureau,Prospect
+TransUnion,Finance,Credit,transunion.com,press@transunion.com,@transunion,linkedin.com/company/transunion,Credit bureau,Prospect
+Equifax,Finance,Credit,equifax.com,press@equifax.com,@equifax,linkedin.com/company/equifax,Credit bureau,Prospect
+NerdWallet,Finance,Credit,nerdwallet.com,press@nerdwallet.com,@nerdwallet,linkedin.com/company/nerdwallet,Financial comparison,Prospect
+Bankrate,Finance,Credit,bankrate.com,press@bankrate.com,@bankrate,linkedin.com/company/bankrate,Financial comparison,Prospect
+LendingTree,Finance,Credit,lendingtree.com,press@lendingtree.com,@lendingtree,linkedin.com/company/lendingtree,Loan marketplace,Prospect
+Upstart,Finance,Lending,upstart.com,press@upstart.com,@upstart,linkedin.com/company/upstart-network,AI lending,Prospect
+LendingClub,Finance,Lending,lendingclub.com,press@lendingclub.com,@lendingclub,linkedin.com/company/lendingclub,P2P lending,Prospect
+Prosper,Finance,Lending,prosper.com,press@prosper.com,@prosperloans,linkedin.com/company/prosper,P2P lending,Prospect
+Avant,Finance,Lending,avant.com,press@avant.com,@avantcredit,linkedin.com/company/avant,Personal loans,Prospect
+Best Egg,Finance,Lending,bestegg.com,press@bestegg.com,@bestegg,linkedin.com/company/bestegg,Personal loans,Prospect
+SoFi Loans,Finance,Lending,sofi.com,press@sofi.com,@sofi,linkedin.com/company/sofi,Student + personal loans,Prospect
+Earnest,Finance,Lending,earnest.com,press@earnest.com,@earnest,linkedin.com/company/earnest,Student loans,Prospect
+CommonBond,Finance,Lending,commonbond.co,press@commonbond.co,@commonbond,linkedin.com/company/commonbond,Student loans,Prospect
+Laurel Road,Finance,Lending,laurelroad.com,press@laurelroad.com,@laurelroad,linkedin.com/company/laurel-road,Healthcare loans,Prospect
+Figure,Finance,Lending,figure.com,press@figure.com,@figaboraure,linkedin.com/company/figure,Home equity,Prospect
+Better.com,Finance,Lending,better.com,press@better.com,@betterdotcom,linkedin.com/company/bettermortgage,Digital mortgage,Prospect
+Rocket Mortgage,Finance,Lending,rocketmortgage.com,press@rocketmortgage.com,@rocketmortgage,linkedin.com/company/rocket-mortgage,Digital mortgage,Prospect
+LoanDepot,Finance,Lending,loandepot.com,press@loandepot.com,@loandepot,linkedin.com/company/loandepot,Mortgage,Prospect
+Quicken Loans,Finance,Lending,quickenloans.com,press@quickenloans.com,@quickenloans,linkedin.com/company/quicken-loans,Mortgage - Rocket,Prospect
+Redfin,Finance,Real Estate,redfin.com,press@redfin.com,@redfin,linkedin.com/company/redfin,Real estate,Prospect
+Zillow,Finance,Real Estate,zillow.com,press@zillow.com,@zillow,linkedin.com/company/zillow,Real estate,Prospect
+Opendoor,Finance,Real Estate,opendoor.com,press@opendoor.com,@opendoor,linkedin.com/company/opendoor,iBuyer,Prospect
+Offerpad,Finance,Real Estate,offerpad.com,press@offerpad.com,@offerpad,linkedin.com/company/offerpad,iBuyer,Prospect
+Knock,Finance,Real Estate,knock.com,press@knock.com,@knockdotcom,linkedin.com/company/knock-com,Home trade-in,Prospect
+Orchard,Finance,Real Estate,orchard.com,press@orchard.com,@orchardhomes,linkedin.com/company/orchard-homes,Home buying,Prospect
+Flyhomes,Finance,Real Estate,flyhomes.com,press@flyhomes.com,@flyhomes,linkedin.com/company/flyhomes,Cash offers,Prospect
+Homeward,Finance,Real Estate,homeward.com,press@homeward.com,@homewardhomes,linkedin.com/company/homeward,Cash offers,Prospect
+Ribbon,Finance,Real Estate,ribbonhome.com,press@ribbonhome.com,@ribbonhome,linkedin.com/company/ribbon-home,Cash offers,Prospect
+Flynova,Smart Home,Gadgets,amazon.com,support@seller.com,@flynova_official,linkedin.com/company/flynova,Flying toys,Prospect
+Switchbot,Smart Home,Automation,switch-bot.com,support@switch-bot.com,@switchbot,linkedin.com/company/switchbot,Smart buttons,Prospect
+Aqara,Smart Home,Automation,aqara.com,support@aqara.com,@aqara_official,linkedin.com/company/aqara,Xiaomi ecosystem,Prospect
+Tuya,Smart Home,Automation,tuya.com,press@tuya.com,@tuyaboraglobal,linkedin.com/company/tuya-smart,Smart device platform,Prospect
+Shelly,Smart Home,Automation,shelly.com,press@shelly.com,@shelly_iot,linkedin.com/company/shelly-iot,DIY automation,Prospect
+Broadlink,Smart Home,Automation,ibroadlink.com,support@ibroadlink.com,@broadlink_tech,linkedin.com/company/broadlink,IR controllers,Prospect
+Sonoff,Smart Home,Automation,sonoff.tech,support@sonoff.tech,@sonaboraoff_official,linkedin.com/company/sonoff,DIY smart home,Prospect
+Athom Homey,Smart Home,Automation,homey.app,support@athom.com,@athomhomey,linkedin.com/company/athom-homey,Universal hub,Prospect
+Yeelight,Smart Home,Automation,yeelight.com,support@yeelight.com,@yeelightglobal,linkedin.com/company/yeelight,Xiaomi lighting,Prospect
+Tapo,Smart Home,Automation,tapo.com,press@tp-link.com,@tapaboraohome,linkedin.com/company/tp-link,TP-Link budget,Prospect
+Levoit,Smart Home,Air Quality,levoit.com,press@levoit.com,@levoit_official,linkedin.com/company/levoit,Air purifiers,Prospect
+Coway,Smart Home,Air Quality,cowaymega.com,press@coway.com,@cowaymega,linkedin.com/company/coway,Air purifiers,Prospect
+Molekule,Smart Home,Air Quality,molekule.com,press@molekule.com,@molekule,linkedin.com/company/molekule,Air purifiers,Prospect
+Blueair,Smart Home,Air Quality,blueair.com,press@blueair.com,@blueair,linkedin.com/company/blueair,Air purifiers,Prospect
+Winix,Smart Home,Air Quality,winix.com,support@winix.com,@winixamerica,linkedin.com/company/winix,Air purifiers,Prospect
+Awair,Smart Home,Air Quality,awair.is,press@awair.is,@awaboraair,linkedin.com/company/awair,Air quality monitor,Prospect
+AirThings,Smart Home,Air Quality,airthings.com,press@airthings.com,@airthings,linkedin.com/company/airthings,Radon + air quality,Prospect
+IQAir,Smart Home,Air Quality,iqair.com,press@iqair.com,@iqair,linkedin.com/company/iqair,Premium purifiers,Prospect
+Breville,Smart Home,Kitchen,breville.com,press@breville.com,@brevilleusa,linkedin.com/company/breville,Kitchen appliances,Prospect
+KitchenAid,Smart Home,Kitchen,kitchenaid.com,press@whirlpool.com,@kitchenaidusa,linkedin.com/company/kitchenaid,Kitchen appliances,Prospect
+Instant Pot,Smart Home,Kitchen,instantpot.com,press@instantbrands.com,@instantpot,linkedin.com/company/instant-pot,Pressure cooker,Prospect
+Ninja,Smart Home,Kitchen,ninjakitchen.com,press@sharkninja.com,@ninjaboraakitchen,linkedin.com/company/sharkninja,Kitchen appliances,Prospect
+Vitamix,Smart Home,Kitchen,vitamix.com,press@vitamix.com,@vitamix,linkedin.com/company/vitamix,Premium blenders,Prospect
+Anova,Smart Home,Kitchen,anovaculinary.com,press@anovaculinary.com,@aboraanovaculinary,linkedin.com/company/anova-culinary,Sous vide,Prospect
+Joule,Smart Home,Kitchen,breville.com,press@breville.com,@joulechef,linkedin.com/company/breville,Sous vide - Breville,Prospect
+Meater,Smart Home,Kitchen,meater.com,press@meater.com,@meaboraater,linkedin.com/company/meater,Wireless thermometer,Prospect
+ThermoWorks,Smart Home,Kitchen,thermoworks.com,press@thermoworks.com,@thermoworks,linkedin.com/company/thermoworks,Thermometers,Prospect
+Traeger,Smart Home,Kitchen,traeger.com,press@traeger.com,@traegergrills,linkedin.com/company/traeger-grills,Smart grills,Prospect
+Weber,Smart Home,Kitchen,weber.com,press@weber.com,@webergrill,linkedin.com/company/weber-stephen,Grills + smart,Prospect
+Char-Broil,Smart Home,Kitchen,charbroil.com,press@charbroil.com,@charbroil,linkedin.com/company/char-broil,Smart grills,Prospect
+Yummly,Smart Home,Kitchen,yummly.com,press@whirlpool.com,@yummly,linkedin.com/company/yummly,Recipe app - Whirlpool,Prospect
+Drop,Smart Home,Kitchen,getdrop.com,press@getdrop.com,@droprecipes,linkedin.com/company/drop-recipes,Smart kitchen scale,Prospect
+Hestan Cue,Smart Home,Kitchen,hestancue.com,press@hestancue.com,@hestancue,linkedin.com/company/hestan-cue,Smart cookware,Prospect
+Cosori,Smart Home,Kitchen,cosori.com,press@vesync.com,@cosori_official,linkedin.com/company/cosori,Air fryers,Prospect
+Dreo,Smart Home,Kitchen,dreo.com,press@dreo.com,@dreo_official,linkedin.com/company/dreo,Fans + air fryers,Prospect
+Opal,Smart Home,Kitchen,firstbuild.com,press@firstbuild.com,@opaborg,linkedin.com/company/firstbuild,Nugget ice maker,Prospect
+GE Profile,Smart Home,Kitchen,geappliances.com,press@geappliances.com,@geprofile,linkedin.com/company/ge-appliances,Smart appliances,Prospect
+Samsung SmartThings Cooking,Smart Home,Kitchen,samsung.com,press@samsung.com,@samsungus,linkedin.com/company/samsung,Smart kitchen,Prospect
+LG ThinQ,Smart Home,Kitchen,lg.com/thinq,press@lg.com,@lgthinq,linkedin.com/company/lg,Smart appliances,Prospect
+Miele,Smart Home,Kitchen,mieleusa.com,press@miele.com,@mieleusa,linkedin.com/company/miele,Premium appliances,Prospect
+Thermador,Smart Home,Kitchen,thermador.com,press@bshg.com,@thermadorhome,linkedin.com/company/thermador,Luxury appliances,Prospect
+Sub-Zero/Wolf,Smart Home,Kitchen,subzero-wolf.com,press@subzero-wolf.com,@subzerowolf,linkedin.com/company/sub-zero-wolf,Luxury appliances,Prospect
+Bosch Smart Home,Smart Home,Hub,bosch-smarthome.com,press@bosch.com,@bosch_smarthome,linkedin.com/company/bosch,European smart home,Prospect
+Insteon,Smart Home,Hub,insteon.com,support@insteon.com,@insteon,linkedin.com/company/insteon,Dual-band protocol,Prospect
+Fibaro,Smart Home,Hub,fibaro.com,press@fibaro.com,@fibaro,linkedin.com/company/fibaro,Z-Wave premium,Prospect
+Vera,Smart Home,Hub,vera.com,support@vera.com,@vera_control,linkedin.com/company/vera-control,Smart hub,Prospect
+Bond,Smart Home,Hub,bondhome.io,support@bondhome.io,@bondhomeio,linkedin.com/company/bond-home,RF bridge for fans,Prospect
+Broadlink RM4,Smart Home,Hub,ibroadlink.com,support@ibroadlink.com,@broadlink_tech,linkedin.com/company/broadlink,IR/RF hub,Prospect
+Logitech Harmony,Smart Home,Hub,logitech.com,press@logitech.com,@logitech,linkedin.com/company/logitech,Universal remote,Prospect
+Caséta,Smart Home,Electrical,lutron.com/caseta,press@lutron.com,@lutronelec,linkedin.com/company/lutron-electronics,Lutron DIY,Prospect
+Liftmaster,Smart Home,Garage,liftmaster.com,press@chamberlain.com,@liftmaster,linkedin.com/company/liftmaster,Garage openers,Prospect
+Ryobi Garage,Smart Home,Garage,ryobitools.com,support@ryobitools.com,@ryobi_tools,linkedin.com/company/ryobi,Modular garage,Prospect
+Genie,Smart Home,Garage,geniecompany.com,press@geniecompany.com,@thegeniecompany,linkedin.com/company/genie-company,Garage openers,Prospect
+Linear,Smart Home,Garage,linear-solutions.com,support@linear.com,@linearllc,linkedin.com/company/linear-llc,Garage + access,Prospect
+iSmartGate,Smart Home,Garage,ismartgate.com,support@ismartgate.com,@ismartgate,linkedin.com/company/gogogate,WiFi garage,Prospect
+Remootio,Smart Home,Garage,remootio.com,support@remootio.com,@remootio,linkedin.com/company/remootio,Bluetooth garage,Prospect
+Garadget,Smart Home,Garage,garadget.com,support@garadget.com,@garadget,linkedin.com/company/garadget,WiFi garage,Prospect
+Digi,Finance,Payments,digi.com,press@digi.com,@digi,linkedin.com/company/digi,Digital payments,Prospect
+Greenlight,Finance,Banking,greenlight.com,press@greenlight.com,@greenaboralightcard,linkedin.com/company/greenlight,Kids debit card,Prospect
+Gohenry,Finance,Banking,gohenry.com,press@gohenry.com,@gohenaborary,linkedin.com/company/gohenry,Kids debit card,Prospect
+Step,Finance,Banking,step.com,press@step.com,@step,linkedin.com/company/step-mobile,Teen banking,Prospect
+Till,Finance,Banking,tillfin.com,press@tillfin.com,@tillfin,linkedin.com/company/till-financial,Family banking,Prospect
+FamZoo,Finance,Banking,famzoo.com,support@famzoo.com,@famzoo,linkedin.com/company/famzoo,Family finance,Prospect
+Copper,Finance,Banking,getcopper.com,press@getcopper.com,@getcaborapper,linkedin.com/company/copper-banking,Teen banking,Prospect
+Jassby,Finance,Banking,jassby.com,support@jassby.com,@jassby,linkedin.com/company/jassby,Family allowance,Prospect
+Zeta,Finance,Banking,askzeta.com,press@askzeta.com,@askzeta,linkedin.com/company/askzeta,Couples finance,Prospect
+Honeydue,Finance,Banking,honeydue.com,support@honeydue.com,@honeydue,linkedin.com/company/honeydue,Couples finance,Prospect
+Splitwise,Finance,Apps,splitwise.com,press@splitwise.com,@splitwise,linkedin.com/company/splitwise,Bill splitting,Prospect
+Tab,Finance,Apps,tab.com,support@tab.com,@tabapp,linkedin.com/company/tab-app,Split bills,Prospect
+Digit,Finance,Savings,digit.co,press@digit.co,@hellodigit,linkedin.com/company/digit,Auto-savings,Prospect
+Qapital,Finance,Savings,qapital.com,press@qapital.com,@qapital,linkedin.com/company/qapital,Goal savings,Prospect
+Oportun,Finance,Savings,oportun.com,press@oportun.com,@oportun,linkedin.com/company/oportun,Savings + loans,Prospect
+Dave,Finance,Banking,dave.com,press@dave.com,@davebanking,linkedin.com/company/dave,Banking + advances,Prospect
+Brigit,Finance,Banking,brigit.com,press@brigit.com,@brigit,linkedin.com/company/brigit,Cash advances,Prospect
+Earnin,Finance,Banking,earnin.com,press@earnin.com,@earnin,linkedin.com/company/earnin,Earned wage access,Prospect
+MoneyLion,Finance,Banking,moneylion.com,press@moneylion.com,@moneylion,linkedin.com/company/moneylion,All-in-one finance,Prospect
+Albert,Finance,Banking,albert.com,press@albert.com,@heaboraylbert,linkedin.com/company/heyalbert,AI finance,Prospect
+Cleo,Finance,Banking,meetcleo.com,press@meetcleo.com,@meetcleo,linkedin.com/company/meet-cleo,AI money assistant,Prospect
+Truist,Finance,Banking,truist.com,press@truist.com,@truist,linkedin.com/company/truist,Regional bank,Prospect
+PNC,Finance,Banking,pnc.com,press@pnc.com,@pncbank,linkedin.com/company/pnc,Regional bank,Prospect
+Fifth Third,Finance,Banking,53.com,press@53.com,@fifththird,linkedin.com/company/fifth-third-bank,Regional bank,Prospect
+Huntington,Finance,Banking,huntington.com,press@huntington.com,@huntington_bank,linkedin.com/company/huntington-bank,Regional bank,Prospect
+Citizens,Finance,Banking,citizensbank.com,press@citizensbank.com,@citizensbank,linkedin.com/company/citizens-bank,Regional bank,Prospect
+KeyBank,Finance,Banking,key.com,press@key.com,@keybank,linkedin.com/company/keybank,Regional bank,Prospect
+Regions,Finance,Banking,regions.com,press@regions.com,@askregions,linkedin.com/company/regions-financial,Regional bank,Prospect
+BMO,Finance,Banking,bmo.com,press@bmo.com,@baboramo,linkedin.com/company/bmo,Canadian bank US,Prospect
+TD Bank,Finance,Banking,td.com,press@td.com,@tdbank,linkedin.com/company/td-bank,Canadian bank US,Prospect
+CIBC,Finance,Banking,cibc.com,press@cibc.com,@cibc,linkedin.com/company/cibc,Canadian bank,Prospect
+Tangerine,Finance,Banking,tangerine.ca,press@tangerine.ca,@tanaboraerine,linkedin.com/company/tangerine,Online bank Canada,Prospect
+EQ Bank,Finance,Banking,eqbank.ca,press@eqbank.ca,@eqbank,linkedin.com/company/eq-bank,Online bank Canada,Prospect
+Wealthsimple,Finance,Investing,wealthsimple.com,press@wealthsimple.com,@wealthsimple,linkedin.com/company/wealthsimple,Canadian robo,Prospect
+Questrade,Finance,Investing,questrade.com,press@questrade.com,@questaborarade,linkedin.com/company/questrade,Canadian broker,Prospect
+Interactive Investor,Finance,Investing,ii.co.uk,press@ii.co.uk,@ii_couk,linkedin.com/company/interactive-investor,UK investing,Prospect
+Freetrade,Finance,Investing,freetrade.io,press@freetrade.io,@fraboraeetrade,linkedin.com/company/freetrade,UK investing,Prospect
+Hargreaves Lansdown,Finance,Investing,hl.co.uk,press@hl.co.uk,@hlaborainvest,linkedin.com/company/hargreaves-lansdown,UK investing,Prospect
+AJ Bell,Finance,Investing,ajbell.co.uk,press@ajbell.co.uk,@ajaborabell,linkedin.com/company/aj-bell,UK investing,Prospect
+Nutmeg,Finance,Investing,nutmeg.com,press@nutmeg.com,@nutmeg,linkedin.com/company/nutmeg-saving,UK robo,Prospect
+Revolut,Finance,Banking,revolut.com,press@revolut.com,@revolut,linkedin.com/company/revolut,Global fintech,Prospect
+N26,Finance,Banking,n26.com,press@n26.com,@n26,linkedin.com/company/n26,European neobank,Prospect
+Monzo,Finance,Banking,monzo.com,press@monzo.com,@monzo,linkedin.com/company/monzo,UK neobank,Prospect
+Starling,Finance,Banking,starlingbank.com,press@starlingbank.com,@starlingbank,linkedin.com/company/starling-bank,UK neobank,Prospect
+Bunq,Finance,Banking,bunq.com,press@bunq.com,@bunq,linkedin.com/company/bunq,Dutch neobank,Prospect
+Vivid Money,Finance,Banking,vivid.money,press@vivid.money,@vividmoney,linkedin.com/company/vivid-money,European neobank,Prospect
+Trade Republic,Finance,Investing,traderepublic.com,press@traderepublic.com,@traderepublic,linkedin.com/company/trade-republic,European broker,Prospect
+Scalable Capital,Finance,Investing,scalable.capital,press@scalable.capital,@scalablecapital,linkedin.com/company/scalable-capital,European robo,Prospect
+Hatch,Apps,Productivity,hatchapp.com,support@hatchapp.com,@hatch,linkedin.com/company/hatch-app,Collaboration,Prospect
+Notion Calendar,Apps,Productivity,notion.so,team@makenotion.com,@notionhq,linkedin.com/company/notionhq,Calendar - formerly Cron,Prospect
+Raycast,Apps,Productivity,raycast.com,hello@raycast.com,@rayaboracast,linkedin.com/company/raycast,Mac launcher,Prospect
+Alfred,Apps,Productivity,alfredapp.com,support@alfredapp.com,@alfredapp,linkedin.com/company/alfredapp,Mac launcher,Prospect
+TextExpander,Apps,Productivity,textexpander.com,support@textexpander.com,@textexpander,linkedin.com/company/textexpander,Text snippets,Prospect
+CleanMyMac,Apps,Productivity,macpaw.com,press@macpaw.com,@macpaw,linkedin.com/company/macpaw,Mac utility,Prospect
+Setapp,Apps,Productivity,setapp.com,press@macpaw.com,@setapp,linkedin.com/company/setapp,Mac app subscription,Prospect
+Parallels,Apps,Productivity,parallels.com,press@parallels.com,@paralaboralelsinc,linkedin.com/company/parallels,Virtualization,Prospect
+VMware Fusion,Apps,Productivity,vmware.com,press@vmware.com,@vmware,linkedin.com/company/vmware,Virtualization,Prospect
+Rectangle,Apps,Productivity,rectangleapp.com,support@rectangleapp.com,@rectangleapp,linkedin.com/company/rectangleapp,Window management,Prospect
+Bartender,Apps,Productivity,macbartender.com,support@macbartender.com,@macbartender,linkedin.com/company/macbartender,Menu bar,Prospect
+Magnet,Apps,Productivity,magnet.crowdcafe.com,support@crowdcafe.com,@magnetapp,linkedin.com/company/crowdcafe,Window management,Prospect
+BetterTouchTool,Apps,Productivity,folivora.ai,support@folivora.ai,@bettertouchtool,linkedin.com/company/folivora,Mac customization,Prospect
+Keyboard Maestro,Apps,Productivity,keyboardmaestro.com,support@stairways.com,@keyboardmaestro,linkedin.com/company/stairways,Mac automation,Prospect
+Hazel,Apps,Productivity,noodlesoft.com,support@noodlesoft.com,@naboraoodlesoft,linkedin.com/company/noodlesoft,File automation,Prospect
+Arc Browser,Apps,Productivity,arc.net,hello@thebrowser.company,@arc_browser,linkedin.com/company/the-browser-company,Modern browser,Prospect
+Orion Browser,Apps,Productivity,browser.kagi.com,support@kagi.com,@kagihq,linkedin.com/company/kagi,Privacy browser,Prospect
+Brave Browser,Apps,Productivity,brave.com,press@brave.com,@brave,linkedin.com/company/brave-software,Privacy browser,Prospect
+Vivaldi,Apps,Productivity,vivaldi.com,press@vivaldi.com,@vivaboraaldibrowser,linkedin.com/company/vivaldi,Power user browser,Prospect
+Firefox,Apps,Productivity,mozilla.org/firefox,press@mozilla.org,@firefox,linkedin.com/company/mozilla-corporation,Open browser,Prospect
+Edge,Apps,Productivity,microsoft.com/edge,press@microsoft.com,@msaboraedgedev,linkedin.com/company/microsoft,Microsoft browser,Prospect
+Opera,Apps,Productivity,opera.com,press@opera.com,@opera,linkedin.com/company/opera,Alt browser,Prospect
+DuckDuckGo,Apps,Privacy,duckduckgo.com,press@duckduckgo.com,@duckduckgo,linkedin.com/company/duckduckgo,Private search,Prospect
+Startpage,Apps,Privacy,startpage.com,press@startpage.com,@startpage,linkedin.com/company/startpage,Private search,Prospect
+Mullvad VPN,Apps,Security,mullvad.net,press@mullvad.net,@mullvadnet,linkedin.com/company/mullvad,Privacy VPN,Prospect
+IVPN,Apps,Security,ivpn.net,support@ivpn.net,@ivpnnet,linkedin.com/company/ivpn,Privacy VPN,Prospect
+Windscribe,Apps,Security,windscribe.com,support@windscribe.com,@windscribecom,linkedin.com/company/windscribe,VPN + firewall,Prospect
+TunnelBear,Apps,Security,tunnelbear.com,press@tunnelbear.com,@thaboraetunnelbear,linkedin.com/company/tunnelbear,Friendly VPN,Prospect
+IPVanish,Apps,Security,ipvanish.com,press@ipvanish.com,@ipvanish,linkedin.com/company/ipvanish,VPN service,Prospect
+CyberGhost,Apps,Security,cyberghostvpn.com,press@cyberghost.com,@cyberghostprivacy,linkedin.com/company/cyberghost,VPN service,Prospect
+PIA,Apps,Security,privateinternetaccess.com,press@privateinternetaccess.com,@paboraia_vpn,linkedin.com/company/private-internet-access,VPN service,Prospect
+Hide.me,Apps,Security,hide.me,press@hide.me,@thehideaborame,linkedin.com/company/hideme,VPN service,Prospect
+Trezor,Finance,Crypto,trezor.io,press@trezor.io,@trezor,linkedin.com/company/trezor,Hardware wallet,Prospect
+Ledger,Finance,Crypto,ledger.com,press@ledger.com,@ledger,linkedin.com/company/ledger,Hardware wallet,Prospect
+Exodus,Finance,Crypto,exodus.com,press@exodus.com,@exodus_io,linkedin.com/company/exodus-movement,Software wallet,Prospect
+Trust Wallet,Finance,Crypto,trustwallet.com,press@trustwallet.com,@trustwallet,linkedin.com/company/trustwallet,Mobile wallet,Prospect
+MetaMask,Finance,Crypto,metamask.io,press@consensys.net,@metamask,linkedin.com/company/metamask,Browser wallet,Prospect
+Phantom,Finance,Crypto,phantom.app,press@phantom.app,@phantom,linkedin.com/company/phantom-app,Solana wallet,Prospect
+Rainbow,Finance,Crypto,rainbow.me,hello@rainbow.me,@rainbowdotme,linkedin.com/company/rainbow-wallet,Ethereum wallet,Prospect
+Uniswap,Finance,Crypto,uniswap.org,press@uniswap.org,@uniswap,linkedin.com/company/uniswap,DEX,Prospect
+OpenSea,Finance,Crypto,opensea.io,press@opensea.io,@opensea,linkedin.com/company/opensea,NFT marketplace,Prospect
+Rarible,Finance,Crypto,rarible.com,press@rarible.com,@rarible,linkedin.com/company/rarible,NFT marketplace,Prospect
+Foundation,Finance,Crypto,foundation.app,press@foundation.app,@foundation,linkedin.com/company/foundation-app,NFT platform,Prospect
+Binance,Finance,Crypto,binance.com,press@binance.com,@binance,linkedin.com/company/binance,Crypto exchange,Prospect
+KuCoin,Finance,Crypto,kucoin.com,press@kucoin.com,@kucoincom,linkedin.com/company/kucoin,Crypto exchange,Prospect
+Bybit,Finance,Crypto,bybit.com,press@bybit.com,@bybit_official,linkedin.com/company/bybit,Crypto exchange,Prospect
+OKX,Finance,Crypto,okx.com,press@okx.com,@okaborax,linkedin.com/company/okx,Crypto exchange,Prospect
+Bitstamp,Finance,Crypto,bitstamp.net,press@bitstamp.net,@bitstamp,linkedin.com/company/bitstamp,Crypto exchange,Prospect
+eToro,Finance,Investing,etoro.com,press@etoro.com,@etoro,linkedin.com/company/etoro,Social trading,Prospect
+Firstrade,Finance,Investing,firstrade.com,press@firstrade.com,@firstrade,linkedin.com/company/firstrade,Commission-free,Prospect
+Tastyworks,Finance,Investing,tastyworks.com,press@tastytrade.com,@tastyworks,linkedin.com/company/tastyworks,Options trading,Prospect
+TradeStation,Finance,Investing,tradestation.com,press@tradestation.com,@tradestation,linkedin.com/company/tradestation,Trading platform,Prospect
+Thinkorswim,Finance,Investing,thinkorswim.com,press@tdameritrade.com,@taboradameritrade,linkedin.com/company/td-ameritrade,Trading platform,Prospect
+Moomoo,Finance,Investing,moomoo.com,press@moomoo.com,@maboraoomooapp,linkedin.com/company/moomoo,Trading platform,Prospect
+Lightspeed,Finance,Investing,lightspeed.com,press@lightspeed.com,@lspd,linkedin.com/company/lightspeed-trading,Active trading,Prospect
+Merrill Edge,Finance,Investing,merrilledge.com,press@bofa.com,@bankofamerica,linkedin.com/company/merrill,BofA investing,Prospect
+Empower Personal Dashboard,Finance,Budgeting,empower.com,press@empower.com,@empower,linkedin.com/company/empower,Wealth tracking,Prospect
+Lunch Money,Finance,Budgeting,lunchmoney.app,support@lunchmoney.app,@laboraunchmoney,linkedin.com/company/lunch-money,Budgeting,Prospect
+Goodbudget,Finance,Budgeting,goodbudget.com,support@goodbudget.com,@goodbudget,linkedin.com/company/goodbudget,Envelope budgeting,Prospect
+EveryDollar,Finance,Budgeting,everydollar.com,support@ramseysolutions.com,@everydollar,linkedin.com/company/ramsey-solutions,Dave Ramsey app,Prospect
+PocketGuard,Finance,Budgeting,pocketguard.com,press@pocketguard.com,@pocketguard,linkedin.com/company/pocketguard,Budgeting,Prospect
+Simplifi,Finance,Budgeting,simplifi.quicken.com,press@quicken.com,@simplifibyquicken,linkedin.com/company/simplifi,Quicken modern,Prospect
+Tiller Money,Finance,Budgeting,tillerhq.com,support@tillerhq.com,@tilleraborahq,linkedin.com/company/tiller-money,Spreadsheet budget,Prospect
+Buxfer,Finance,Budgeting,buxfer.com,support@buxfer.com,@buxfer,linkedin.com/company/buxfer,Money management,Prospect
+CountAbout,Finance,Budgeting,countabout.com,support@countabout.com,@countabout,linkedin.com/company/countabout,Quicken alternative,Prospect
+Mvelopes,Finance,Budgeting,mvelopes.com,support@mvelopes.com,@mvelopes,linkedin.com/company/mvelopes,Envelope budgeting,Prospect

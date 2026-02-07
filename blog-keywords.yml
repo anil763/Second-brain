@@ -1,0 +1,46 @@
+# 7-Day Blog Keyword Strategy
+# Auto-posting daily at 11 PM EST while Anil sleeps
+
+keywords:
+  - day_1:
+      keyword: "spiritual awakening"
+      title: "The Complete Guide to Spiritual Awakening: Signs, Stages, and What to Expect"
+      angle: Signs you're awakening + the messy middle + how to navigate it
+      
+  - day_2:
+      keyword: "life path number"
+      title: "Life Path Numbers Explained: How to Calculate Yours and What It Reveals"
+      angle: How to calculate + brief overview of each number 1-9 + master numbers
+      
+  - day_3:
+      keyword: "inner child healing"
+      title: "Inner Child Healing: 6 Steps to Reparent Yourself and Release the Past"
+      angle: What is inner child work + signs you need it + practical exercises
+      
+  - day_4:
+      keyword: "shadow work"
+      title: "Shadow Work for Beginners: How to Embrace Your Dark Side and Heal"
+      angle: Jungian concept + why we suppress + integration practices
+      
+  - day_5:
+      keyword: "emotional healing"
+      title: "Emotional Healing: A Practical Guide to Processing and Releasing Trapped Emotions"
+      angle: Body-emotion connection + somatic practices + emotional release
+      
+  - day_6:
+      keyword: "finding your purpose"
+      title: "Finding Your Purpose: 5 Questions That Will Reveal Your True Calling"
+      angle: Corporate to calling + signs you're off-path + discovery process
+      
+  - day_7:
+      keyword: "aligned masculinity"
+      title: "Aligned Masculinity: The New Paradigm for Modern Men"
+      angle: Beyond old toxic vs soft masculine + what aligned looks like + practices
+
+settings:
+  word_count: 1500-2000
+  model: anthropic/claude-opus-4-5-20251101
+  include_image: true
+  image_style: warm, spiritual, modern
+  publish_time: "23:00"
+  timezone: "America/New_York"

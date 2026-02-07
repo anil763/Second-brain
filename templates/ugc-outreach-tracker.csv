@@ -1,0 +1,38 @@
+Name,Date,Platform,Pitched To,Response?,Follow Up Date,Status,Deal Value,Notes
+Example Brand,2026-02-06,TikTok/Email,YNAB,Yes,2026-02-10,Negotiating,$300,Interested in 3 videos
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+
+Instructions:
+- Status options: Pitched | Responded | Call Scheduled | Negotiating | Closed | Passed
+- Follow up 3 days after initial pitch if no response
+- Track deal value even if not closed yet (helps predict pipeline)
+- Notes: Include what they're interested in, objections, next steps
